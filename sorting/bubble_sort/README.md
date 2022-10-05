@@ -32,15 +32,15 @@ python3 tests.py
 If all test cases pass, your solution will be merged with the main branch. If you have any questions, feel free to open an issue.
 
 ## Acknowledgments
-- [Python](https://www.python.org/)
+- [C++](http://cplusplus.org/)
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - [GitHub](https://github.com)
 - [Git](https://git-scm.com/)
 
 ## Maintainer
-- [Anamaya](https://www.linkedin.com/in/anamaya1729/)
-- [Kartik](https://github.com/kartik007007)
-- [Shantanu](https://github.com/neutralWire)
+- [Shubhang](http://github.com/Shubhang-2111)
+- [Sarabjot](https://github.com/ricky-aufvaa)
+- [Saloni](https://github.com/saloni1202)
 - [Shailesh](https://github.com/ShaileshKumar007)
 
 ## License
