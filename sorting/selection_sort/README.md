@@ -39,7 +39,7 @@ If all test cases pass, your solution will be merged with the main branch. If yo
 
 ## Maintainer
 - [Shubhang](https://github.com/Shubhang-2111)
-- [Sarbjot](https://github.com/ricky-aufvaa)
+- [Sarabjot](https://github.com/ricky-aufvaa)
 - [Saloni](https://github.com/saloni1202)
 - [Shailesh](https://github.com/ShaileshKumar007)
 
