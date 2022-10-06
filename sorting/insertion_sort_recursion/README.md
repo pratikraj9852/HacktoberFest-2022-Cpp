@@ -24,12 +24,6 @@ arr = [5, 4, 3, 2, 1]
 #### Explanation
 The sorted list is shown above.
 
-#### Testing
-Run the following command:
-```
-python3 tests.py
-```
-
 #### Contributing
 If all test cases pass, your solution will be merged with the main branch. If you have any questions, feel free to open an issue.
 
