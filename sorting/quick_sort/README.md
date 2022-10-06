@@ -23,11 +23,6 @@ numbers = [5, 1, 4, 2, 8]
 ### Explanation
 The sorted list of numbers in ascending order is [1, 2, 4, 5, 8].
 
-### Testing
-Run the following command:
-```
-python3 tests.py
-```
 #### Contributing
 If all test cases pass, your solution will be merged with the main branch. If you have any questions, feel free to open an issue.
 
