@@ -3,7 +3,7 @@
 using namespace std;
  
 
-int binarySearch(int arr[],int size ,int element)
+int linearSearch(int arr[],int size ,int element)
 {  
     // enter your code here
 }
@@ -21,7 +21,7 @@ int main()
    int element; // element to be searched
     cin>>element;
  
-    int result = binarySearch(arr,size,element);
+    int result = linearSearch(arr,size,element);
     (result == -1)
         ? cout << "Element is not present in array"
         : cout << "Element is present at index " << result;
