@@ -24,12 +24,6 @@ n = 5
 ### Explanation
 The index of 5 in the list is 4.
 
-### Testing
-Run the following command:
-```
-python3 tests.py
-```
-
 #### Contributing
 If all test cases pass, your solution will be merged with the main branch. If you have any questions, feel free to open an issue.
 
