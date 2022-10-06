@@ -5,8 +5,15 @@ using namespace std;
 
 void bubbleSort(int arr[],int size)
 {  
-    // enter your code here
-    // print the sorted array in this function itself
+         // enter your code here
+}
+
+
+void printArray(int arr[], int n)  // function to print elements of array
+{
+    for (int i=0; i < n; i++)
+        printf("%d ", arr[i]);
+    printf("\n");
 }
  
 int main()
@@ -20,5 +27,7 @@ int main()
     }
    
    bubbleSort(arr,size);
+   
+   printArray(arr, size);
    return 0;
 }
