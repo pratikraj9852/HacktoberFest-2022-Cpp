@@ -24,11 +24,6 @@ n = 5
 #### Explanation
 The 5th Fibonacci number is 5.
 
-#### Testing
-Run the following command:
-```
-python3 tests.py
-```
 #### Contributing
 If all test cases pass, your solution will be merged with the main branch. If you have any questions, feel free to open an issue.
 
