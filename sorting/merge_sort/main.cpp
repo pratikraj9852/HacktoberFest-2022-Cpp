@@ -3,7 +3,7 @@
 using namespace std;
  
 
-void mergeSort(int arr[],int size)
+void mergeSort(int arr[],int begin,int end)
 {  
          // enter your code here
 }
@@ -26,7 +26,7 @@ int main()
        cin>>arr[i]; // elemnents in the array
     }
    
-   mergeSort(arr,size);
+   mergeSort(arr,0,size-1);
    
    printArray(arr, size);
    return 0;
