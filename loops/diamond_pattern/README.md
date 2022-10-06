@@ -52,11 +52,6 @@ The diamond pattern of height 9 is:
 - The eighth line contains 7 spaces and 3 stars.
 - The ninth line contains 8 spaces and 1 star.
 
-#### Testing
-Run the following command:
-```
-python3 tests.py
-```
 If your code passes all test cases, then your solution will be accepted.
 
 #### Contributing
