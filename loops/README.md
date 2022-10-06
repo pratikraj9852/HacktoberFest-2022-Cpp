@@ -1,14 +1,14 @@
 
-##What are loops in C++?
+## What are loops in C++?
 Some situations may arise during programming where the programmer needs to execute a block of code multiple times (sometimes with slight changes). Generally, statements in C++ get executed sequentially (one statement followed by another). C++ provides statements for several control structures and iteration capability, allowing programmers to execute a statement or group of statements multiple times. 
 
 ## Types of loops:-
-#while loop
+# while loop
 C++ while loop statement allows the same code block to be run repeatedly until a condition is met. This tutorial will teach you how to use the while loop in C++.
 
 The while loop is the most basic loop in C++. It has a control condition and executes as long as the condition is true. In this loop, the condition of the loop is tested before the body of the loop is executed. That's why it is called an entry-controlled loop. 
 
-#for loop
+# for loop
 C++ for loop is similar to the while loop; It continues to execute a block of code until the predefined condition is met. This is an entry-controlled loop. This tutorial will teach you how to use the for loop in C++. 
 
 #do-while loop
