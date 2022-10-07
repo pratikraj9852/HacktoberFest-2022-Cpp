@@ -41,7 +41,7 @@ The diamond pattern of height 9 is:
   *****
    ***
     *
-    ```
+```
 - The first line contains 8 spaces and 1 star.
 - The second line contains 7 spaces and 3 stars.
 - The third line contains 6 spaces and 5 stars.
