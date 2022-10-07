@@ -1,4 +1,4 @@
-#Hacktoberfest 2022
+# Hacktoberfest 2022
 ## Sum Of Digits in C++
 
 ### Problem Statement
