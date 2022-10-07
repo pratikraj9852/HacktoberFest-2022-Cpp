@@ -8,6 +8,7 @@ int linearSearch(int arr[],int size ,int element)
     // enter your code here
 }
  
+// Driver Code
 int main()
 {   
     int size;
