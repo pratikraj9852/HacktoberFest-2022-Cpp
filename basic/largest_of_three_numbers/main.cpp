@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
  
-int largest(int n){
+int largest(int a,int b,int c){
    //Enter your code here
 }
 
@@ -11,8 +11,6 @@ int main()
 {   
     int a,b,c;
     cin>>a>>b>>c;
-    
-  
-    
+    cout<<largest(a,b,c);
     return 0;
 }
