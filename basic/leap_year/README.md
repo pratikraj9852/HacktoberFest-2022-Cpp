@@ -1,4 +1,4 @@
-#Hacktoberfest 2022
+# Hacktoberfest 2022
 ## Leap year in C++
 
 ### Problem Statement
