@@ -3,7 +3,7 @@
 using namespace std;
  
 
-void mergeSort(int arr[],int begin,int end)
+void mergeSort_recursive(int arr[],int begin,int end)
 {  
          // enter your code here
 }
@@ -15,7 +15,8 @@ void printArray(int arr[], int n)  // function to print elements of array
         printf("%d ", arr[i]);
     printf("\n");
 }
- 
+
+// Driver Code 
 int main()
 {   
     int size;
@@ -26,7 +27,7 @@ int main()
        cin>>arr[i]; // elemnents in the array
     }
    
-   mergeSort(arr,0,size-1);
+   mergeSort_recursive(arr,0,size-1);
    
    printArray(arr, size);
    return 0;
