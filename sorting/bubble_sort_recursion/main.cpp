@@ -3,7 +3,7 @@
 using namespace std;
  
 
-void bubbleSort(int arr[],int size)
+void bubbleSort_recursive(int arr[],int size)
 {  
     // enter your code here
 }
@@ -14,8 +14,8 @@ void printArray(int arr[], int n) // function to print elements of the array
         printf("%d ", arr[i]);
     printf("\n");
 }
-  
  
+// Driver Code
 int main()
 {   
     int size;
@@ -26,7 +26,7 @@ int main()
        cin>>arr[i]; // elemnents in the array
     }
    
-   bubbleSort(arr,size);
+   bubbleSort_recursive(arr,size);
    printArray(arr, size);
    return 0;
 }
