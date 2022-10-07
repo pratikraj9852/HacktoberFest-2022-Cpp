@@ -1,5 +1,5 @@
 # Hacktoberfest 2022
-## Swap two numbers in C++
+## Swap numbers in C++
 
 ### Problem Statement
 Write a program to swap the two numbers in C++.
