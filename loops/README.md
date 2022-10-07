@@ -17,16 +17,16 @@ C++ do while loop is similar to the while loop, but it always executes a code bl
 
 ## List of Programs
 
--diamond_pattern
--factorial_iterative
--fibonacci_iterative
--half_diamond_pattern
--half_pyramid_pattern
--hourglass_pattern
--inverted_half_pyramid_pattern
--right_angle_triangle_pattern
--right_angle_triangle_with_number
--sum_of_digits 
+- diamond_pattern
+- factorial_iterative
+- fibonacci_iterative
+- half_diamond_pattern
+- half_pyramid_pattern
+- hourglass_pattern
+- inverted_half_pyramid_pattern
+- right_angle_triangle_pattern
+- right_angle_triangle_with_number
+- sum_of_digits 
 
 ## How to Contribute
 Please read the [CONTRIBUTING.md](../../CONTRIBUTING.md)
