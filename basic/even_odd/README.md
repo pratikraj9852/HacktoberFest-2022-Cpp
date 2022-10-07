@@ -5,23 +5,21 @@
 Write a program to find the even odd numbers in C++.
 
 ### Input Format
-Create a function with name bubble_sort that takes a list of numbers as an argument and returns the sorted list of numbers. If invalid input is entered, return empty list.
+Accept a number n as input.
 
 ### Output Format
-Return a list of numbers in ascending order.
+Complete the function which returns the number is true else it returns false.
 
 ### Sample Input
 ```
-numbers = [5, 1, 4, 2, 8]
+5
 ```
 
 ### Sample Output
 ```
-[1, 2, 4, 5, 8]
+Number is Odd
 ```
 
-### Explanation
-The sorted list of numbers in ascending order is [1, 2, 4, 5, 8].
 
 #### Contributing
 If all test cases pass, your solution will be merged with the main branch. If you have any questions, feel free to open an issue.
