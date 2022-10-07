@@ -8,7 +8,7 @@ Write a program to find the largest number in C++.
 Accept 3 numbers a,b,c as input.
 
 ### Output Format
-Complete the function which returns the true if the given number is largest among 3 numbers.
+Complete the function which returns the largest among the three numbers.
 
 ### Sample Input
 ```
