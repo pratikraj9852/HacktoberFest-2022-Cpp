@@ -16,6 +16,7 @@ void printArray(int arr[], int n)  // function to print elements of array
     printf("\n");
 }
  
+// Driver Code
 int main()
 {   
     int size;
