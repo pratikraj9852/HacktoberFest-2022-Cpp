@@ -1,5 +1,5 @@
 
-# HacktoberFeast 2022 - C++ Basic Programs
+# HacktoberFest 2022 - C++ Basic Programs
 This repository contains a collection of beginner programs in C++. These programs are for beginners who are new to programming and want to learn C++. These programs are easy to understand and implement. You can use these programs to learn C++ and contribute to this repository.
 
 ## List of Programs
