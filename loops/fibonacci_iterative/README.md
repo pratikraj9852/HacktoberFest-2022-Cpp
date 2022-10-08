@@ -1,6 +1,6 @@
-## Hacktober Fest 2022 - Hacktoberfest2022
+# Hacktoberfest 2022 
 
-### Fibonacci in C++
+## Fibonacci in C++
 
 #### Problem Statement
 Write a function that takes a number n as an argument and returns the nth Fibonacci number.
