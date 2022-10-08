@@ -1,5 +1,5 @@
 
-# HacktoberFest 2022 - C++ Basic Programs
+# HacktoberFest 2022 - C++ Searching Programs
 This repository contains a collection of programs based on the concepts of searching in C++. 
 
 ## List of Programs
