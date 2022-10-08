@@ -28,6 +28,9 @@ In this section, you will find algorithms and data structures used for sorting a
 - Classes and Objects<br>
 In this section, you have to implement the concept of classes and objects with a sample program of your own.
 
+- Projects<br>
+In this section you can share your projects in C++.
+
 ### Contributing
 Please read [CONTRIBUTING.md](/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
