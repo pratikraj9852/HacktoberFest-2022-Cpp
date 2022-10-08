@@ -1,6 +1,6 @@
-## Hacktober Fest 2022 - Hacktoberfest2022
+# Hacktoberfest 2022
 
-### Diamond Pattern in C++
+## Diamond Pattern in C++
 
 #### Problem Statement
 Write a function that takes a number n as an argument and prints a diamond pattern of height n.
