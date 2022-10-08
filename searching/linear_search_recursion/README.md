@@ -1,4 +1,4 @@
-#Hacktoberfest 2022
+# Hacktoberfest 2022
 ## Linear Search Program in C++
 
 ### Problem Statement
