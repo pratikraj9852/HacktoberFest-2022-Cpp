@@ -1,4 +1,4 @@
-#Hacktoberfest 2022
+# Hacktoberfest 2022
 ## Quick Sort in C++
 
 ### Problem Statement
