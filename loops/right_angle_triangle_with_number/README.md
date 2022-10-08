@@ -1,6 +1,6 @@
 # Hacktoberfest 2022
 
-### Right Angle Triangle Pattern With Number in C++
+## Right Angle Triangle Pattern With Number in C++
 
 #### Problem Statement
 Write a function that takes a number n as an argument and prints a right angle triangle with number pattern of height n.
