@@ -14,7 +14,7 @@ Code should be well documented and easy to understand. The algorithms and data s
 
 #### This repository is split into five sections:
 - Basic<br>
-In this section, you will find algorithms and data structures that are easy to understand and implement. These algorithms and data structures are a good starting point for beginners. There will 5 problems in this section.
+In this section , the programs are for beginners who are new to programming and want to learn C++. These programs are easy to understand and implement. You can use these programs to learn C++ and contribute to this repository.. There will 5 problems in this section.
 
 - Loops<br>
 In this section, you will find question which are based on iteration method, these problems are a good starting point for data structures and algorithm. There will be 10 questions in this section.
