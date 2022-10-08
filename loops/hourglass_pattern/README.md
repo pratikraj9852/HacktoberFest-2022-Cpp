@@ -1,6 +1,6 @@
 # Hacktoberfest 2022 
 
-### Hourglass Pattern in C++
+## Hourglass Pattern in C++
 
 #### Problem Statement
 Write a function that takes a number n as an argument and prints an hourglass star pattern of height n.
