@@ -33,7 +33,7 @@ Please read the [CONTRIBUTING.md](../../CONTRIBUTING.md)
 
 ## Rules
 - There are 10 programs in the repository. Each program contain main.cpp , main1.cpp and README.md file.
-- You have to write the solution in main.cpp or main1.cpp file.
+- You have to write the solution in main.cpp.
 - Do not change the driver code of any program.
 - Description of the program is given in README.md file.
 - If there is no pull request for that program, then you can create a pull request for that program.
