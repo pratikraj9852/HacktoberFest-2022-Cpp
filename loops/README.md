@@ -32,7 +32,7 @@ C++ do while loop is similar to the while loop, but it always executes a code bl
 Please read the [CONTRIBUTING.md](../../CONTRIBUTING.md)
 
 ## Rules
-- There are 10 programs in the repository. Each program contain main.cpp , main1.cpp and README.md file.
+- There are 10 programs in the repository. Each program contain main.cpp and README.md file.
 - You have to write the solution in main.cpp.
 - Do not change the driver code of any program.
 - Description of the program is given in README.md file.
