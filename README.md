@@ -38,7 +38,6 @@ Please read [CONTRIBUTING.md](/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](/CODE_O
 
 * There are total 30 problems open for contribution.
 * Pull Requests are accepted on **First Come First Serve Basis**.
-* Every problem has two main.cpp file on which you can contribute ,that means two pull request will be accepted per problem.
 * You can create only one pull request per problem.
 * Do not change the driver code while contributing.
 * Once Pull Request is accepted on one problem, no other pull request will be reviewed on the that problem. Please try to contribute on other problem if any pull   request is already merged.
