@@ -1,4 +1,4 @@
-## Hacktober Fest 2022 - Hacktoberfest2022
+# Hacktoberfest 2022 
 
 ### Hourglass Pattern in C++
 
