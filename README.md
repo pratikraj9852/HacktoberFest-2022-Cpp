@@ -12,7 +12,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 There are many repositories on GitHub that contain a collection of algorithms and data structures in different programming languages. The goal of this repository is to provide a collection of algorithms and data structures in C++. Aim of this repository is to become a one-stop repository for all the algorithms and data structures in C++. 
 Code should be well documented and easy to understand. The algorithms and data structures should be implemented according to the style guide mentioned below.
 
-#### This repository is split into five sections:
+#### This repository is split into six sections:
 - Basic<br>
 In this section , the programs are for beginners who are new to programming and want to learn C++. These programs are easy to understand and implement. You can use these programs to learn C++ and contribute to this repository.. There will 5 problems in this section.
 
