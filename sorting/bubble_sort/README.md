@@ -1,4 +1,4 @@
-# Hacktoberfest 2022
+# Hacktober fest 2022
 ## Bubble Sort in C++
 
 ### Problem Statement
