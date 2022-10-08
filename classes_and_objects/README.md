@@ -8,7 +8,8 @@ This repository contains a cpp file with a driver code in it. You are supposed t
 Please read the [CONTRIBUTING.md](../../CONTRIBUTING.md)
 
 ## Rules
-- You have to write the solution in main.cpp or main1.cpp file.
+- You have implement the concept of classes and objects in main.cpp or main1.cpp file.
+- You can generate only one pull request for this section either in main or main1 file.
 - Please read the [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md)
 
 ## Acknowledgments
