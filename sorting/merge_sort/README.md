@@ -1,4 +1,4 @@
-#Hacktoberfest 2022
+# Hacktoberfest 2022
 ## Merge Sort in C++
 
 ### Problem Statement
