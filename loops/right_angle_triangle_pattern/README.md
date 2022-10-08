@@ -1,6 +1,6 @@
-# Hacktoberfest 2022 - Hacktoberfest2022
+# Hacktoberfest 2022
 
-### Right Angle Triangle Pattern in C++
+## Right Angle Triangle Pattern in C++
 
 #### Problem Statement
 Write a function that takes a number n as an argument and prints a right angle triangle pattern of height n.
