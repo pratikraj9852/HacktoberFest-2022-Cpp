@@ -1,4 +1,4 @@
-#  HACKTOBER FEST 2022
+#  HACKTOBERFEST 2022
 ## Swap numbers in C++
 
 ### Problem Statement
