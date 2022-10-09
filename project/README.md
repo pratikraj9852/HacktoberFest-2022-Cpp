@@ -5,7 +5,7 @@ In this repository you can generate a pull request for a project made on your ow
 
 
 ## How to Contribute
-Please read the [CONTRIBUTING.md](../../CONTRIBUTING.md)
+Please read the [CONTRIBUTING.md](../CONTRIBUTING.md)
 
 ## Rules
 - Please read the [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md)
