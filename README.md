@@ -6,7 +6,7 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/GDSC-CEC)
 
 
-Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
+Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.This repo is aimed at people who are new to Open-Source, earn and learn from that experience.Hacktoberfest is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
 
 ### Goal of this repository
 There are many repositories on GitHub that contain a collection of algorithms and data structures in different programming languages. The goal of this repository is to provide a collection of algorithms and data structures in C++. Aim of this repository is to become a one-stop repository for all the algorithms and data structures in C++. 
@@ -37,7 +37,6 @@ Please read [CONTRIBUTING.md](/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](/CODE_O
 ### Rules
 
 * There are total 30 problems open for contribution.
-* Pull Requests are accepted on **First Come First Serve Basis**.
 * You can create only one pull request per problem.
 * Do not change the driver code while contributing.
 * Once Pull Request is accepted on one problem, no other pull request will be reviewed on the that problem. Please try to contribute on other problem if any pull   request is already merged.
