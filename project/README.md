@@ -1,5 +1,5 @@
 
-# HacktoberFeast 2022 - C++ Projects  
+# HacktoberFest 2022 - C++ Projects  
 In this repository you can generate a pull request for a project made on your own in C++.
 
 
