@@ -1,4 +1,4 @@
-# Hacktober Fest 2022 
+# Hacktoberfest 2022 
 
 ### Insertion Sort in C++
 
