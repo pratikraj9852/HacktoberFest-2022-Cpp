@@ -2,8 +2,13 @@
 #include<iostream>
 using namespace std;
  
-void swap(int &a,int &b){
+void swap(int &x,int &y){
    //Enter your code here
+   x = x ^ y; 
+    y = x ^ y; 
+    x = x ^ y; 
+    
+ 
 }
 
 //Driver Code
